@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4" pages="2">
   <diagram name="Page-1" id="0JDkAAtBtexvmtoXh208">
-    <mxGraphModel dx="1122" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,11 +10,11 @@
         <mxCell id="8XEFC0jclhyZpEwvIOi0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8XEFC0jclhyZpEwvIOi0-2" target="8XEFC0jclhyZpEwvIOi0-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8XEFC0jclhyZpEwvIOi0-2" value="LLMs are becoming more powerful, driving improved content generation and reasoning thus enhancing use cases like code generation, image recognition, summarization, and classification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="280" width="220" height="190" as="geometry" />
+        <mxCell id="8XEFC0jclhyZpEwvIOi0-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;LLMs are becoming more powerful, driving improved content generation and reasoning thus enhancing use cases like code generation, image recognition, summarization, classification and so on" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="280" width="245" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8XEFC0jclhyZpEwvIOi0-3" value="AI tools enhancing assistance, like Copilot, Cursor, Tutors etc. built on top of LLMs." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="520" width="230" height="190" as="geometry" />
+        <mxCell id="8XEFC0jclhyZpEwvIOi0-3" value="Results in - Better AI assistance tools like Copilot, Cursor, Tutors etc. built on top of LLMs." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="400" width="245" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8XEFC0jclhyZpEwvIOi0-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="8XEFC0jclhyZpEwvIOi0-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -22,25 +22,38 @@
             <mxPoint x="270" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8XEFC0jclhyZpEwvIOi0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8XEFC0jclhyZpEwvIOi0-6" target="8XEFC0jclhyZpEwvIOi0-7">
+        <mxCell id="_xzSEBTtd7zDVqH5vABa-2" value="The Rise of LLMs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0" vertex="1" connectable="0" parent="8XEFC0jclhyZpEwvIOi0-4">
+          <mxGeometry x="-0.0142" y="2" relative="1" as="geometry">
+            <mxPoint x="-48" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XEFC0jclhyZpEwvIOi0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="8XEFC0jclhyZpEwvIOi0-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700.0000000000002" y="350.0000000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_xzSEBTtd7zDVqH5vABa-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8XEFC0jclhyZpEwvIOi0-7" target="_xzSEBTtd7zDVqH5vABa-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8XEFC0jclhyZpEwvIOi0-6" value="In enterprise world to integrate into business contexts, automate existing workflows, operations and enhance user experiences" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="280" width="220" height="190" as="geometry" />
+        <mxCell id="8XEFC0jclhyZpEwvIOi0-7" value="&lt;p&gt;Making LLM - enterprise context-aware with RAG, function calling, tools, and AI agents frameworks.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="260" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8XEFC0jclhyZpEwvIOi0-7" value="&lt;p&gt;Making AI enterprise context-aware with RAG, function calling, tools, and AI agents frameworks.&quot;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="520" width="220" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="8XEFC0jclhyZpEwvIOi0-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8XEFC0jclhyZpEwvIOi0-6" target="8XEFC0jclhyZpEwvIOi0-1">
+        <mxCell id="8XEFC0jclhyZpEwvIOi0-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" target="8XEFC0jclhyZpEwvIOi0-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="290" as="sourcePoint" />
+            <mxPoint x="700.0000000000002" y="280.0000000000001" as="sourcePoint" />
             <mxPoint x="450" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_xzSEBTtd7zDVqH5vABa-6" value="Transforming Enterprises: Integrating AI to Automate Workflows and Enhance User Experiences" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="210" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_xzSEBTtd7zDVqH5vABa-8" value="&lt;p&gt;Multi-agents system to automate enterprise workflows and conversational interfaces&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="400" width="260" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="oy817IPG_0Yy2BmdTkY6" name="Page-2">
+  <diagram id="oy817IPG_0Yy2BmdTkY6" name="user-exp">
     <mxGraphModel dx="1443" dy="2061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -92,74 +105,6 @@
             <mxPoint x="789.8" y="150" as="sourcePoint" />
             <mxPoint x="789.8" y="100" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="17fm-d9y1B3v622YcG-6" name="Page-3">
-    <mxGraphModel dx="1683" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="auc2eSK9H1xH9fyQutXm-1" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="350" width="170" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="auc2eSK9H1xH9fyQutXm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.464;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="auc2eSK9H1xH9fyQutXm-3" target="auc2eSK9H1xH9fyQutXm-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="auc2eSK9H1xH9fyQutXm-3" value="SaaS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="365" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="auc2eSK9H1xH9fyQutXm-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="auc2eSK9H1xH9fyQutXm-6" target="auc2eSK9H1xH9fyQutXm-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="auc2eSK9H1xH9fyQutXm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="auc2eSK9H1xH9fyQutXm-6" target="auc2eSK9H1xH9fyQutXm-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="auc2eSK9H1xH9fyQutXm-6" value="Open phone/computer and webapp&lt;div&gt;Login/Authenticate&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Navigate to respective options and perform your transaction&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="335" width="200" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="auc2eSK9H1xH9fyQutXm-7" value="&lt;b&gt;Pros&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Available 24x7&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Comfort of home&lt;/div&gt;&lt;div&gt;Scalable&lt;/div&gt;&lt;div&gt;Quick&lt;/div&gt;&lt;div&gt;Seamless Authentication options available now like passkey&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="500" y="230" width="200" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="auc2eSK9H1xH9fyQutXm-8" value="&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Cons&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;div&gt;Computer knowledge required&lt;/div&gt;&lt;div&gt;Software knowledge menu, navigation, forms filling etc.&lt;/div&gt;&lt;div&gt;&lt;div&gt;Harder authentication like userid, pwd, OTP etc.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Can&#39;t talk in native lang.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="500" y="435" width="200" height="135" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="AWuPlLL_GVncPZsaDj6H" name="ai-agents">
-    <mxGraphModel dx="808" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="OKp7p6i1sf5AI0Csb6Lu-1" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="160" width="170" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="OKp7p6i1sf5AI0Csb6Lu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.464;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OKp7p6i1sf5AI0Csb6Lu-3" target="OKp7p6i1sf5AI0Csb6Lu-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OKp7p6i1sf5AI0Csb6Lu-3" value="AI Agents - Experience" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OKp7p6i1sf5AI0Csb6Lu-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OKp7p6i1sf5AI0Csb6Lu-6" target="OKp7p6i1sf5AI0Csb6Lu-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="122.5454545454545" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OKp7p6i1sf5AI0Csb6Lu-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OKp7p6i1sf5AI0Csb6Lu-6" target="OKp7p6i1sf5AI0Csb6Lu-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="324.9999999999998" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OKp7p6i1sf5AI0Csb6Lu-6" value="Use Phone/Laptop&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Simple Mic button OR Chat interface&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Native lang interaction&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="130" width="200" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="OKp7p6i1sf5AI0Csb6Lu-20" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pros&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Available 24x7&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Comfort of home&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Scalable&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Quick&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Transact in your native lang&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;You don&#39;t need to be tech savvy&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Feel like visiting branch&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Can respond as per User Persona like to boomer, gen-z or gen-alpha&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;align=left;" vertex="1" parent="1">
-          <mxGeometry x="490" y="30" width="320" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="OKp7p6i1sf5AI0Csb6Lu-21" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Cons&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Computer knowledge required&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Harder authentication like userid, pwd, OTP etc.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Can&#39;t talk in native lang.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Software knowledge menu, navigation, forms filling etc.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;align=left;" vertex="1" parent="1">
-          <mxGeometry x="490" y="260" width="320" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
