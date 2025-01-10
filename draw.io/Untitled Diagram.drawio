@@ -1,53 +1,53 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4" pages="3">
   <diagram name="Page-1" id="0JDkAAtBtexvmtoXh208">
-    <mxGraphModel dx="1188" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1010" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8XEFC0jclhyZpEwvIOi0-1" value="AI Trends" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8XEFC0jclhyZpEwvIOi0-1" value="AI Trends" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="110" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8XEFC0jclhyZpEwvIOi0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8XEFC0jclhyZpEwvIOi0-2" target="8XEFC0jclhyZpEwvIOi0-3">
+        <mxCell id="8XEFC0jclhyZpEwvIOi0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8XEFC0jclhyZpEwvIOi0-2" target="8XEFC0jclhyZpEwvIOi0-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8XEFC0jclhyZpEwvIOi0-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;LLMs are becoming more powerful, driving improved content generation and reasoning thus enhancing use cases like code generation, image recognition, summarization, classification and so on" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8XEFC0jclhyZpEwvIOi0-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;LLMs are becoming more powerful, driving improved content generation and reasoning thus enhancing use cases like code generation, image recognition, summarization, classification and so on" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="280" width="245" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8XEFC0jclhyZpEwvIOi0-3" value="Results in - Better AI assistance tools like Copilot, Cursor, Tutors etc. built on top of LLMs." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8XEFC0jclhyZpEwvIOi0-3" value="Results in - Better AI assistance tools like Copilot, Cursor, Tutors etc. built on top of LLMs." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="400" width="245" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8XEFC0jclhyZpEwvIOi0-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="8XEFC0jclhyZpEwvIOi0-1">
+        <mxCell id="8XEFC0jclhyZpEwvIOi0-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="8XEFC0jclhyZpEwvIOi0-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="280" as="sourcePoint" />
             <mxPoint x="270" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_xzSEBTtd7zDVqH5vABa-2" value="The Rise of LLMs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0" vertex="1" connectable="0" parent="8XEFC0jclhyZpEwvIOi0-4">
+        <mxCell id="_xzSEBTtd7zDVqH5vABa-2" value="The Rise of LLMs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0" parent="8XEFC0jclhyZpEwvIOi0-4" vertex="1" connectable="0">
           <mxGeometry x="-0.0142" y="2" relative="1" as="geometry">
             <mxPoint x="-48" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8XEFC0jclhyZpEwvIOi0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="8XEFC0jclhyZpEwvIOi0-7">
+        <mxCell id="8XEFC0jclhyZpEwvIOi0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="8XEFC0jclhyZpEwvIOi0-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700.0000000000002" y="350.0000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_xzSEBTtd7zDVqH5vABa-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8XEFC0jclhyZpEwvIOi0-7" target="_xzSEBTtd7zDVqH5vABa-8">
+        <mxCell id="_xzSEBTtd7zDVqH5vABa-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8XEFC0jclhyZpEwvIOi0-7" target="_xzSEBTtd7zDVqH5vABa-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8XEFC0jclhyZpEwvIOi0-7" value="&lt;p&gt;Making LLM - enterprise context-aware with RAG, function calling, tools, and AI agents frameworks.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8XEFC0jclhyZpEwvIOi0-7" value="&lt;p&gt;Making LLM - enterprise context-aware with RAG, function calling, tools, and AI agents frameworks.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="280" width="260" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8XEFC0jclhyZpEwvIOi0-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" target="8XEFC0jclhyZpEwvIOi0-1">
+        <mxCell id="8XEFC0jclhyZpEwvIOi0-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" parent="1" target="8XEFC0jclhyZpEwvIOi0-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700.0000000000002" y="280.0000000000001" as="sourcePoint" />
             <mxPoint x="450" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_xzSEBTtd7zDVqH5vABa-6" value="Transforming Enterprises: Integrating AI to Automate Workflows and Enhance User Experiences" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_xzSEBTtd7zDVqH5vABa-6" value="Transforming Enterprises: Integrating AI to Automate Workflows and Enhance User Experiences" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="210" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_xzSEBTtd7zDVqH5vABa-8" value="&lt;p&gt;Multi-agents system to automate enterprise workflows and conversational interfaces&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_xzSEBTtd7zDVqH5vABa-8" value="&lt;p&gt;Multi-agents system to automate enterprise workflows and conversational interfaces&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="400" width="260" height="80" as="geometry" />
         </mxCell>
       </root>
@@ -106,6 +106,14 @@
             <mxPoint x="789.8" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UChhlvQWrVhSvjY25L6b" name="Page-3">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
